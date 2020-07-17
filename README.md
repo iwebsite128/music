@@ -11,11 +11,15 @@
 <source src="lsbyzly.mp3">
 </video>
 
-<video controls width="default" poster="ch.jpg">
-<source src="hd.kgm">
+<video controls width="default" poster="ls.jpg">
+<source src="ls.mp3">
 </video>
 
-<video controls width="default" poster="ch.jpg">
-<source src="ch.mp3">
+<video controls width="default" poster="ndjgdwdly.jpg">
+<source src="ndjgdwdly.mp3">
+</video>
+
+<video controls width="default" poster="hh.jpg">
+<source src="hh.mp3">
 </video>
 </html>
