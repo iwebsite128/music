@@ -1,9 +1,9 @@
 <html>
-<audio controls>
+<video controls width="default">
 <source src="laji.mp3">
-</audio>
+</video>
 <br>
-<audio controls>
+<video controls width="default">
 <source src="sanjiaozhi.mp3">
-</audio>
+</video>
 </html>
