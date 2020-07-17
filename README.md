@@ -15,7 +15,7 @@
 <source src="ls.mp3">
 </video>
 
-<video controls width="200" poster="ndjgdwdly.jpg">
+<video controls width="400" poster="ndjgdwdly.jpg">
 <source src="ndjgdwdly.mp3">
 </video>
 
