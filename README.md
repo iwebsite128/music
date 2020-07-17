@@ -1,5 +1,5 @@
 <html>
-<video controls width="default" poster="ljw.jpg" preload="auto">
+<video controls width="default" poster="xjw.jpg" preload="auto">
 <source src="laji.mp3">
 </video>
 <br>
